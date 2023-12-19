@@ -1,0 +1,5 @@
+aiohttp
+asyncpg
+more-itertools
+SQLAlchemy==1.4.48
+progress
